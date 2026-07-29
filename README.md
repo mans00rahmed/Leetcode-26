@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mans00rahmed/Leetcode-26/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/mans00rahmed/Leetcode-26/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mans00rahmed/Leetcode-26/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
