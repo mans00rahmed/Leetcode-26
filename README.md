@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mans00rahmed/Leetcode-26/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/mans00rahmed/Leetcode-26/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
