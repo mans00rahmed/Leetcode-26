@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mans00rahmed/Leetcode-26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mans00rahmed/Leetcode-26/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mans00rahmed/Leetcode-26/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mans00rahmed/Leetcode-26/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
