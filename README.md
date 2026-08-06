@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mans00rahmed/Leetcode-26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mans00rahmed/Leetcode-26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mans00rahmed/Leetcode-26/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/mans00rahmed/Leetcode-26/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mans00rahmed/Leetcode-26/tree/master/0125-valid-palindrome) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mans00rahmed/Leetcode-26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
