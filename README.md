@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mans00rahmed/Leetcode-26/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0209-minimum-size-subarray-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mans00rahmed/Leetcode-26/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mans00rahmed/Leetcode-26/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Counting
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mans00rahmed/Leetcode-26/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mans00rahmed/Leetcode-26/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
