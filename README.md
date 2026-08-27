@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mans00rahmed/Leetcode-26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mans00rahmed/Leetcode-26/tree/master/0202-happy-number) |
 ## Divide and Conquer
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mans00rahmed/Leetcode-26/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/mans00rahmed/Leetcode-26/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mans00rahmed/Leetcode-26/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/mans00rahmed/Leetcode-26/tree/master/0392-is-subsequence) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
