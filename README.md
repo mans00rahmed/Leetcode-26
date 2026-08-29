@@ -125,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
