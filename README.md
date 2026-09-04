@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/mans00rahmed/Leetcode-26/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mans00rahmed/Leetcode-26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mans00rahmed/Leetcode-26/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mans00rahmed/Leetcode-26/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/mans00rahmed/Leetcode-26/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/mans00rahmed/Leetcode-26/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0876-middle-of-the-linked-list) |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mans00rahmed/Leetcode-26/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mans00rahmed/Leetcode-26/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
