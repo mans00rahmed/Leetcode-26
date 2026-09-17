@@ -5,11 +5,21 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
-        # base case(s) go here — comparing p and q, not just checking one
-        if p is None or q is None:
-            return p is q
+    def isSameTree(self, p: TreeNode | None, q: TreeNode | None) -> bool:
+
+        if q is None and p is None:
+            return True
+        
+        if q is None or p is None:
+            return False
+        
         if p.val != q.val:
             return False
-        # recursive calls — but now each call needs a pair too
-        return True if  self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right) else False
+
+        left = self.isSameTree(p.left, q.left)
+        right = self.isSameTree(p.right, q.right)
+
+        return left and right
+
+
+        
