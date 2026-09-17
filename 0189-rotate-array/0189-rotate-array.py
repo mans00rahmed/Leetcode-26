@@ -6,9 +6,5 @@ class Solution:
 
         k = k % len(nums) if len(nums) > 0 else 0
 
-        # Slice from the start to the pivot, and from the pivot to the end
-        first_part = nums[:len(nums)-k]
-        second_part = nums[len(nums)-k:]  # Fixed: changed from nums[k:]
-
-        nums[:] = second_part + first_part
+        nums[:] = nums[len(nums)-k:] + nums[:len(nums)-k]
         
