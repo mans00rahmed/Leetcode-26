@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/mans00rahmed/Leetcode-26/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/mans00rahmed/Leetcode-26/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/mans00rahmed/Leetcode-26/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mans00rahmed/Leetcode-26/tree/master/0045-jump-game-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mans00rahmed/Leetcode-26/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mans00rahmed/Leetcode-26/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/mans00rahmed/Leetcode-26/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mans00rahmed/Leetcode-26/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mans00rahmed/Leetcode-26/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mans00rahmed/Leetcode-26/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/mans00rahmed/Leetcode-26/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mans00rahmed/Leetcode-26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mans00rahmed/Leetcode-26/tree/master/0392-is-subsequence) |
@@ -174,9 +177,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mans00rahmed/Leetcode-26/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mans00rahmed/Leetcode-26/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/mans00rahmed/Leetcode-26/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mans00rahmed/Leetcode-26/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mans00rahmed/Leetcode-26/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
