@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/mans00rahmed/Leetcode-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mans00rahmed/Leetcode-26/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/mans00rahmed/Leetcode-26/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mans00rahmed/Leetcode-26/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/mans00rahmed/Leetcode-26/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/mans00rahmed/Leetcode-26/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/mans00rahmed/Leetcode-26/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mans00rahmed/Leetcode-26/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/mans00rahmed/Leetcode-26/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/mans00rahmed/Leetcode-26/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
